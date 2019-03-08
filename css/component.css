@@ -20,13 +20,13 @@
 
 /* Text styling */
 .cbp-so-section h2 {
-	font-size: 5em;
+	font-size: 3em;
 	font-weight: 300;
 	line-height: 1;
 }
 
 .cbp-so-section p {
-	font-size: 2em;
+	font-size: 1.5em;
 	font-weight: 300;
 }
 
@@ -115,7 +115,10 @@
 	.cbp-so-section h2 {
 		margin: 0;
 	}
-
+img{	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	border-bottom-left-radius: 3px;
+	border-bottom-right-radius: 3px;}
 	.cbp-so-side img {
 		max-width: 120%;
 	}
@@ -131,4 +134,3 @@
 		max-width: 100%;
 	}
 }
-
